@@ -387,3 +387,23 @@ class List: #Doubly Linked list
                         newlist.pushback(self.at(i))
 
             return newlist
+
+
+
+
+
+
+
+
+
+                                                    
+
+
+
+
+
+
+
+
+
+
